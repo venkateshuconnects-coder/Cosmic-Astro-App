@@ -12,3 +12,6 @@ dependencies = [
 
 [tool.poetry.dev-dependencies]
 # Optional development dependencies can be added here.
+
+[tool.ruff.format]
+preview = true
