@@ -44,5 +44,4 @@ Open the frontend URL shown by Vite, then submit the form to generate your astro
 - Share your result as an image from the UI
 - Compatibility checker for two profiles
 - Daily cosmic energy refresh based on the current date
-=======
 
