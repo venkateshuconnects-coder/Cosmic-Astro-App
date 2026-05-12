@@ -1,0 +1,14 @@
+[project]
+name = "cosmic-astro-backend"
+version = "0.1.0"
+description = "FastAPI backend for the Cosmic Astrology App"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.104.0",
+    "uvicorn[standard]>=0.23.0",
+    "python-dotenv>=1.1.1",
+]
+
+[tool.poetry.dev-dependencies]
+# Optional development dependencies can be added here.
